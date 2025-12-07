@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf666dbd7beac9a4b9676f000c19a2f5, type: 3}
+  m_Name: Worlds Database
+  m_EditorClassIdentifier: 
+  worlds:
+  - scene:
+      scene: {fileID: 102900000, guid: d1290a326782f894d859a7c0b2e490ba, type: 3}
+      path: Assets/Project Files/Game/Scenes/Worlds/World 0.unity
+      name: World 0
+    id: 608437bb-6374-4923-8489-096284bf32cc
+  - scene:
+      scene: {fileID: 102900000, guid: 1ba8baf9def7adb42991f3d1f035a976, type: 3}
+      path: Assets/Project Files/Game/Scenes/Worlds/World 3.unity
+      name: World 3
+    id: 6658372b-e731-4539-a2aa-3bce2e7e0dd2
+  - scene:
+      scene: {fileID: 102900000, guid: b987323407a93a541963884fe5cb7501, type: 3}
+      path: Assets/Project Files/Game/Scenes/Worlds/World 2.unity
+      name: World 2
+    id: b22c70f1-a827-4dca-a75b-3914dcf2b0c5
+  - scene:
+      scene: {fileID: 102900000, guid: bd479fb669ae23f47ac84571416d34ee, type: 3}
+      path: Assets/Project Files/Game/Scenes/Worlds/World 4.unity
+      name: World 4
+    id: 0bdd3d6f-e8e1-49d3-b22f-bf0099d78bdd
+  - scene:
+      scene: {fileID: 102900000, guid: 099600eb61093244fbc0ea52b433e03d, type: 3}
+      path: Assets/Project Files/Game/Scenes/Worlds/World 1.unity
+      name: World 1
+    id: 64237034-5379-4daf-b152-be8359ced037
+  - scene:
+      scene: {fileID: 102900000, guid: 361eea68332b709408fe8391773229a1, type: 3}
+      path: Assets/Project Files/Game/Scenes/Game.unity
+      name: Game
+    id: ebb7454c-9ff1-4774-87f7-2a529beb457a
