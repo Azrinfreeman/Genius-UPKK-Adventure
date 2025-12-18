@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: HananaAcademySdnBhd
-  productName: GeniusUPKKv2
+  productName: GeniusUPKK
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.12156863, g: 0.12156863, b: 0.1254902, a: 1}
@@ -142,7 +142,7 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
-  bundleVersion: 1.1.6
+  bundleVersion: 1.1.7
   preloadedAssets:
   - {fileID: -944628639613478452, guid: 3e66fc8a63b337d478bdc80319233401, type: 3}
   - {fileID: 11400000, guid: ce10a941858183b4490f5d437afa5066, type: 2}
@@ -167,7 +167,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.HananaAcademySdnBhd.GeniusUPKKv2
+    Android: com.HananaAcademySdnBhd.GeniusUPKK
     Standalone: com.DefaultCompany.Survival-Island
   buildNumber:
     Standalone: 0
